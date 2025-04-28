@@ -27,11 +27,11 @@ Some columns like `car_ID`, `CarName`, and `fuelsystem` were dropped as they are
    - Standardized the features using `StandardScaler`.
    
 4. **Model Building**  
-   - Applied **Multiple Linear Regression** from `scikit-learn`.
-   - Split the data into training and testing sets (70% training, 30% testing).
+   - Applied **Multiple Linear Regression**.
+   - Split the data into training and testing sets (90% training, 10% testing).
 
 5. **Model Evaluation**  
-   - Used **Root Mean Squared Error (RMSE)** and **R² Score** to assess performance.
+   - Used **Root Mean Squared Error (RMSE)** to assess performance.
 
 ## Results
 
